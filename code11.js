@@ -172,7 +172,7 @@ asyncObjectsList.restoreLocalVariablesContainers(gdjs.CENA_955_95ACERTOCode.loca
 gdjs.copyArray(runtimeScene.getObjects("QUADRO_VAZIO"), gdjs.CENA_955_95ACERTOCode.GDQUADRO_9595VAZIOObjects8);
 gdjs.copyArray(runtimeScene.getObjects("SETA_3"), gdjs.CENA_955_95ACERTOCode.GDSETA_95953Objects8);
 gdjs.copyArray(runtimeScene.getObjects("TEXT_3"), gdjs.CENA_955_95ACERTOCode.GDTEXT_95953Objects8);
-{gdjs.evtTools.sound.playSoundOnChannel(runtimeScene, "ELEMENTOS/Dublagem/NV/G__RECAP_3_NV.mp3", 3, false, 80, 1);
+{gdjs.evtTools.sound.playSoundOnChannel(runtimeScene, "ELEMENTOS/Dublagem/NV/G_esse_NV_LUA_Fases.mp3", 3, false, 80, 1);
 }
 {for(var i = 0, len = gdjs.CENA_955_95ACERTOCode.GDSETA_95953Objects8.length ;i < len;++i) {
     gdjs.CENA_955_95ACERTOCode.GDSETA_95953Objects8[i].getBehavior("Tween").addObjectOpacityTween2("FADE_IN", 255, "easeInOutQuad", 1, false);
