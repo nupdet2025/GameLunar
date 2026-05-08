@@ -329,7 +329,7 @@ if (isConditionTrue_0) {
 }
 {gdjs.evtTools.sound.stopSoundOnChannel(runtimeScene, 4);
 }
-{gdjs.evtTools.sound.playSoundOnChannel(runtimeScene, "ELEMENTOS/Dublagem/G__Negativa_3.mp3", 4, false, 80, 1);
+{gdjs.evtTools.sound.playSoundOnChannel(runtimeScene, "ELEMENTOS/Dublagem/NV/G__Negativa_3_NV.mp3", 4, false, 80, 1);
 }
 {for(var i = 0, len = gdjs.CENA_955_95ERROCode.GDBTN_9595RETURNObjects1.length ;i < len;++i) {
     gdjs.CENA_955_95ERROCode.GDBTN_9595RETURNObjects1[i].getBehavior("Scale").setScale(1);

@@ -1085,7 +1085,7 @@ if (isConditionTrue_0) {
     gdjs.CENA_955_95QUESTION_953Code.GDBTN_9595RETURNObjects1[i].getBehavior("Scale").setScale(1);
 }
 }
-{gdjs.evtTools.sound.playSoundOnChannel(runtimeScene, "ELEMENTOS/Dublagem/G__Question_3.mp3", 4, false, 80, 1);
+{gdjs.evtTools.sound.playSoundOnChannel(runtimeScene, "ELEMENTOS/Dublagem/NV/G__Question_3_NV.mp3", 4, false, 80, 1);
 }
 }
 
